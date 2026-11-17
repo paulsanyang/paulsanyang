@@ -1,6 +1,6 @@
 ## Paul Sanyang
 
-Mathematician with master's degrees in **Mathematics (Probability Theory)** and **Mathematical Sciences (Machine Learning)**.
+I hold master's degrees in **Mathematics - Probability Theory** and **Mathematical Sciences - Machine Learning**.
 
 My research has focused on spatial stochastic modeling of actin polymerization and graph neural networks for molecular HIV activity prediction.
 
