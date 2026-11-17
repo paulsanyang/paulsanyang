@@ -4,7 +4,7 @@ I hold master's degrees in **Mathematics** - Probability Theory and **Mathematic
 My interests lie in probability theory, stochastic modeling, and machine learning, particularly their applications to complex systems and uncertainty.
 
 - 📩 You can reach me at [paul.sanyang@concordia.ca](mailto:paul.sanyang@concordia.ca)
-- - 🔬 I'm currently exploring how stochastic modeling and machine learning can be used to understand complex systems and uncertainty.
+- 🔬 I'm currently exploring how stochastic modeling and machine learning can be used to understand complex systems and uncertainty.
 
 <h3>Technical Skills</h3>
 <p>
