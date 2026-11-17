@@ -1,23 +1,13 @@
-# Hi, I'm Paul Sanyang 👋
+## Paul Sanyang
 
-### Mathematics | Stochastic Modeling | Machine Learning
+Mathematician with master's degrees in **Mathematics (Probability Theory)** and **Mathematical Sciences (Machine Learning)**.
 
-I am a mathematics researcher with master's degrees in Mathematics and Mathematical Sciences (Machine Learning). My research interests lie at the intersection of stochastic processes, mathematical modeling, and machine learning.
+My research has focused on spatial stochastic modeling of actin polymerization and graph neural networks for molecular HIV activity prediction.
 
-My work involves developing mathematical models, implementing computational algorithms, and investigating how theoretical methods can be applied to complex scientific problems.
+I'm interested in **stochastic processes, interacting particle systems, graph-based learning, and the mathematical foundations of machine learning**.
 
-### 🛠 Technical Skills
+### Selected Work
+- **Stochastic Actin Polymerization:** Spatial diffusion, stochastic simulation, and deterministic approximations.
+- **Molecular Graph Learning:** GCNs, chemical bond representations, and molecular property prediction.
 
-**Programming:** Python, R
-
-**Machine Learning:** PyTorch, PyTorch Geometric, scikit-learn
-
-**Scientific Computing:** NumPy, SciPy, pandas, Matplotlib
-
-**Research Tools:** Jupyter Notebook, Git, LaTeX
-
-### 📫 Connect
-
-I am interested in research collaborations and PhD opportunities in probability, stochastic modeling, and machine learning.
-
-Explore my repositories below to see my research implementations and experiments.
+**Tools:** Python · Deep Learning frameworks: Pytorch, Tensorflow, Keras · NumPy · SciPy · R · LaTeX · MySQL · Database Management Systems · Linux Shell Scripting ·
