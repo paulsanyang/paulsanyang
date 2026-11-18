@@ -1,11 +1,6 @@
 # Hi 👋, I'm Paul Sanyang
 
 My research has involved spatial stochastic modeling, diffusion processes, and graph neural networks for molecular property prediction.
-My interests lie in probability theory, stochastic modeling, and machine learning, particularly their applications to complex systems and uncertainty.
-
-## Research Interests
-
-Graph Neural Networks • Stochastic Processes • Probability Theory • Computer Vision • Scientific Machine Learning
 
 - 📩 You can reach me at [paul.sanyang@concordia.ca](mailto:paul.sanyang@concordia.ca)
 - 🔬 I'm currently exploring how stochastic modeling and machine learning can be used to understand complex systems and uncertainty.
