@@ -1,6 +1,6 @@
 # Hi 👋, I'm Paul Sanyang
 
-## Mathematician | Machine Learning Researcher | Stochastic Modelling
+## Probability Theory | Machine Learning Researcher | Stochastic Modelling
 
 I hold master's degrees in **Mathematics** - Probability Theory and **Mathematical Sciences** - Machine Learning. 
 
