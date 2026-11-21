@@ -2,7 +2,8 @@
 
 My research has involved spatial stochastic modeling, diffusion processes, and graph neural networks for molecular property prediction.
 
-- 🌐 [Academic Website](https://paulsanyang.github.io/)
+
+🌐 **Academic Website:** [paulsanyang.github.io](https://paulsanyang.github.io/)
 - 📩 You can reach me at [paul.sanyang@concordia.ca](mailto:paul.sanyang@concordia.ca)
 - 🔬 I am currently exploring how stochastic modeling and machine learning can be combined to study spatial interactions, understand the dynamics of complex systems, and account for uncertainty.
 
